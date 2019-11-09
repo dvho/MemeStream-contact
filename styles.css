@@ -1,5 +1,5 @@
 body {
-    background-image: url("../src/assets/backgroundTile.png");
+    background-image: url("./assets/backgroundTile.png");
     display: flex;
     flex-direction: row;
 }
